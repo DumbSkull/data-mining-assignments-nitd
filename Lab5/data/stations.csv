@@ -1,0 +1,369 @@
+continent,country_code,lat_lng,major_city,station
+Asia,CN,"(36.81667, 117.81667)",Shanghai,Zhoucun
+Asia,CN,"(34.86472, 117.55417)",Shanghai,Zaozhuang
+Asia,CN,"(23.73333, 114.68333)",Shanghai,Heyuan
+Asia,CN,"(34.65918, 109.22921)",Shanghai,Yanliang
+Asia,CN,"(38.40917, 112.73333)",Shanghai,Xinzhou
+Asia,CN,"(33.78333, 114.51667)",Shanghai,Wacheng
+Asia,CN,"(27.85, 112.9)",Shanghai,Xiangtan
+Asia,CN,"(37.19723, 122.05228)",Shanghai,Tianfu
+Asia,CN,"(34.85, 117.33333)",Shanghai,Taozhuang
+Asia,CN,"(35.64889, 117.27583)",Shanghai,Sishui
+Asia,CN,"(27.34089, 117.4831)",Shanghai,Shaowu
+Asia,CN,"(37.30553, 120.82747)",Shanghai,Zhuangyuan
+Asia,CN,"(35.50056, 117.63083)",Shanghai,Pingyi
+Asia,CN,"(27.92333, 118.53333)",Shanghai,Pucheng
+Asia,CN,"(24.28859, 116.11768)",Shanghai,Meizhou
+Asia,CN,"(37.65181, 120.33063)",Shanghai,Longgang
+Asia,CN,"(23.29549, 113.82465)",Shanghai,Licheng
+Asia,CN,"(36.19278, 117.65694)",Shanghai,Laiwu
+Asia,CN,"(30.35028, 112.19028)",Shanghai,Jingzhou
+Asia,CN,"(32.50611, 120.14278)",Shanghai,Jiangyan
+Asia,CN,"(30.24706, 115.04814)",Shanghai,Huangshi
+Asia,CN,"(37.73222, 115.70111)",Shanghai,Hengshui
+Asia,CN,"(28.88162, 120.03308)",Shanghai,Guli
+Asia,CN,"(23.02677, 113.13148)",Shanghai,Foshan
+Asia,CN,"(35.85, 117.7)",Shanghai,Dongdu
+Asia,CN,"(32.54278, 111.50861)",Shanghai,Danjiangkou
+Asia,CN,"(35.20889, 111.73861)",Shanghai,Changzhi
+Asia,CN,"(34.56861, 105.89333)",Shanghai,Beidao
+Asia,CN,"(29.98869, 122.20488)",Shanghai,Zhoushan
+Asia,CN,"(40.66482, 122.22833)",Shanghai,Yingkou
+Asia,CN,"(46.08333, 122.08333)",Shanghai,Ulanhot
+Asia,CN,"(45.35, 126.28333)",Shanghai,Shuangcheng
+Asia,CN,"(41.09822, 120.74792)",Shanghai,Nanpiao
+Asia,CN,"(41.27194, 123.17306)",Shanghai,Liaoyang
+Asia,CN,"(41.94175, 123.50266)",Shanghai,Hushitai
+Asia,CN,"(40.85158, 122.74754)",Shanghai,Haicheng
+Asia,CN,"(42.64031, 125.51176)",Shanghai,Dongfeng
+Asia,CN,"(45.75279, 130.57211)",Shanghai,Boli
+Asia,CN,"(31.64615, 120.74221)",Shanghai,Changshu City
+America,CO,"(7.83389, -72.47417)",Bogota,Villa del Rosario
+America,CO,"(6.46838, -73.26022)",Bogota,Socorro
+America,CO,"(8.79577, -75.69947)",Bogota,San Carlos
+America,CO,"(10.98778, -74.95472)",Bogota,Puerto Colombia
+America,CO,"(4.73245, -74.26419)",Bogota,Madrid
+America,CO,"(5.20856, -74.73584)",Bogota,Honda
+America,CO,"(10.15031, -73.9614)",Bogota,El Copey
+America,CO,"(3.8801, -77.03116)",Bogota,Buenaventura
+America,CO,"(5.6561, -75.87877)",Bogota,Andes
+Europe,DE,"(51.04962, 12.1369)",Berlin,Zeitz
+Europe,DE,"(52.59319, 13.32127)",Berlin,Wittenau
+Europe,DE,"(50.82709, 6.9747)",Berlin,Wesseling
+Europe,DE,"(50.9803, 11.32903)",Berlin,Weimar
+Europe,DE,"(52.86147, 9.5926)",Berlin,Walsrode
+Europe,DE,"(51.88333, 8.51667)",Berlin,Verl
+Europe,DE,"(48.07667, 8.64409)",Berlin,Trossingen
+Europe,DE,"(48.78232, 9.17702)",Berlin,Stuttgart
+Europe,DE,"(53.59337, 9.47629)",Berlin,Stade
+Europe,DE,"(50.80019, 7.20769)",Berlin,Siegburg
+Europe,DE,"(51.21667, 6.26667)",Berlin,Schwalmtal
+Europe,DE,"(54.52156, 9.5586)",Berlin,Schleswig
+Europe,DE,"(50.72043, 11.34046)",Berlin,Rudolstadt
+Europe,DE,"(48.49144, 9.20427)",Berlin,Reutlingen
+Europe,DE,"(51.20219, 7.36027)",Berlin,Radevormwald
+Europe,DE,"(48.46458, 9.22796)",Berlin,Pfullingen
+Europe,DE,"(51.30001, 13.10984)",Berlin,Oschatz
+Europe,DE,"(51.47805, 6.8625)",Berlin,Oberhausen
+Europe,DE,"(50.23805, 8.86704)",Berlin,Nidderau
+Europe,DE,"(48.73218, 11.18709)",Berlin,Neuburg an der Donau
+Europe,DE,"(47.98372, 10.18527)",Berlin,Memmingen
+Europe,DE,"(50.80904, 8.77069)",Berlin,Marburg an der Lahn
+Europe,DE,"(49.5099, 6.74549)",Berlin,Losheim
+Europe,DE,"(48.52961, 12.16179)",Berlin,Landshut
+Europe,DE,"(51.19139, 6.51352)",Berlin,Korschenbroich
+Europe,DE,"(52.2, 8.63333)",Berlin,Kirchlengern
+Europe,DE,"(50.23019, 8.77155)",Berlin,Karben
+Europe,DE,"(50.09019, 8.4493)",Berlin,Hofheim am Taunus
+Europe,DE,"(52.61131, 13.31783)",Berlin,Hermsdorf
+Europe,DE,"(48.35149, 8.96317)",Berlin,Hechingen
+Europe,DE,"(53.63333, 9.85)",Berlin,Halstenbek
+Europe,DE,"(52.21099, 7.02238)",Berlin,Gronau
+Europe,DE,"(52.47774, 10.5511)",Berlin,Gifhorn
+Europe,DE,"(48.06919, 11.37703)",Berlin,Gauting
+Europe,DE,"(48.35693, 10.98461)",Berlin,Friedberg
+Europe,DE,"(51.168, 7.973)",Berlin,Finnentrop
+Europe,DE,"(49.13645, 8.91229)",Berlin,Eppingen
+Europe,DE,"(48.28259, 9.72749)",Berlin,Ehingen
+Europe,DE,"(52.4581, 13.28702)",Berlin,Dahlem
+Europe,DE,"(51.08468, 7.11393)",Berlin,Burscheid
+Europe,DE,"(49.03685, 8.70745)",Berlin,Bretten
+Europe,DE,"(49.68369, 8.61839)",Berlin,Bensheim
+Europe,DE,"(53.94313, 10.30215)",Berlin,Bad Segeberg
+Europe,DE,"(50.64336, 7.2278)",Berlin,Bad Honnef
+Europe,DE,"(49.97704, 9.15214)",Berlin,Aschaffenburg
+Europe,DE,"(48.21644, 9.02596)",Berlin,Albstadt
+Europe,DE,"(52.53048, 13.29371)",Berlin,Charlottenburg-Nord
+Europe,DE,"(53.6052, 10.03988)",Berlin,Barmbek-Nord
+Africa,DZ,"(36.76639, 3.47717)",Algiers,Boumerdas
+Africa,DZ,"(36.72544, 3.55665)",Algiers,Thenia
+Africa,DZ,"(34.15429, 3.50309)",Algiers,Messaad
+Africa,DZ,"(35.21222, 2.31889)",Algiers,Ksar Chellala
+Africa,DZ,"(35.06544, 1.04945)",Algiers,Frenda
+Africa,DZ,"(36.06386, 4.62744)",Algiers,El Achir
+Africa,DZ,"(36.76775, 2.95924)",Algiers,Cheraga
+Africa,DZ,"(36.27462, 4.85668)",Algiers,Bordj Zemoura
+Africa,DZ,"(36.61954, 4.08282)",Algiers,Beni Douala
+Asia,IN,"(18.87813, 72.93924)",Kolkata,Uran
+Asia,IN,"(10.58806, 77.24779)",Kolkata,Udumalaippettai
+Asia,IN,"(9.82564, 78.25795)",Kolkata,Tiruppuvanam
+Asia,IN,"(25.49043, 85.94001)",Kolkata,Teghra
+Asia,IN,"(12.04161, 75.35927)",Kolkata,Talipparamba
+Asia,IN,"(26.11527, 86.59509)",Kolkata,Supaul
+Asia,IN,"(34.08565, 74.80555)",Kolkata,Srinagar
+Asia,IN,"(25.92493, 73.66633)",Kolkata,Sojat
+Asia,IN,"(14.62072, 74.83554)",Kolkata,Sirsi
+Asia,IN,"(25.13915, 73.06784)",Kolkata,Sheoganj
+Asia,IN,"(11.50526, 77.23826)",Kolkata,Sathyamangalam
+Asia,IN,"(21.46527, 83.97573)",Kolkata,Sambalpur
+Asia,IN,"(25.87498, 86.59611)",Kolkata,Saharsa
+Asia,IN,"(12.95629, 78.27539)",Kolkata,Robertsonpet
+Asia,IN,"(26.44931, 91.61356)",Kolkata,Rangia
+Asia,IN,"(33.37526, 74.3092)",Kolkata,Rajaori
+Asia,IN,"(24.81757, 84.63445)",Kolkata,Rafiganj
+Asia,IN,"(18.51957, 73.85535)",Kolkata,Pune
+Asia,IN,"(11.93381, 79.82979)",Kolkata,Puducherry
+Asia,IN,"(28.71271, 77.656)",Kolkata,Pilkhua
+Asia,IN,"(10.12268, 77.54372)",Kolkata,Periyakulam
+Asia,IN,"(31.28092, 74.85849)",Kolkata,Patti
+Asia,IN,"(20.88098, 75.11937)",Kolkata,Parola
+Asia,IN,"(23.07492, 88.28637)",Kolkata,Pandua
+Asia,IN,"(18.18158, 76.03889)",Kolkata,Osmanabad
+Asia,IN,"(25.6439, 77.9129)",Kolkata,Narwar
+Asia,IN,"(30.81383, 75.16878)",Kolkata,Moga
+Asia,IN,"(28.98002, 77.70636)",Kolkata,Meerut
+Asia,IN,"(11.12018, 76.11996)",Kolkata,Manjeri
+Asia,IN,"(30.21121, 74.4818)",Kolkata,Malaut
+Asia,IN,"(25.92127, 86.79271)",Kolkata,Madhipura
+Asia,IN,"(24.05979, 77.40858)",Kolkata,Leteri
+Asia,IN,"(21.34222, 71.30633)",Kolkata,Kundla
+Asia,IN,"(22.75218, 72.68533)",Kolkata,Kheda
+Asia,IN,"(23.1959, 86.51499)",Kolkata,Kenda
+Asia,IN,"(29.21399, 78.95693)",Kolkata,Kashipur
+Asia,IN,"(11.00599, 77.5609)",Kolkata,Kangayam
+Asia,IN,"(22.88783, 84.13864)",Kolkata,Jashpurnagar
+Asia,IN,"(26.2649, 81.54855)",Kolkata,Jais
+Asia,IN,"(16.06213, 76.0586)",Kolkata,Hungund
+Asia,IN,"(29.22254, 79.5286)",Kolkata,Haldwani
+Asia,IN,"(26.76628, 83.36889)",Kolkata,Gorakhpur
+Asia,IN,"(12.25282, 79.41727)",Kolkata,Gingee
+Asia,IN,"(21.53889, 71.57737)",Kolkata,Gariadhar
+Asia,IN,"(15.73628, 75.96976)",Kolkata,Gajendragarh
+Asia,IN,"(17.54907, 82.85749)",Kolkata,Elamanchili
+Asia,IN,"(19.21667, 73.08333)",Kolkata,Dombivli
+Asia,IN,"(22.19303, 88.18466)",Kolkata,Diamond Harbour
+Asia,IN,"(12.1277, 78.15794)",Kolkata,Dharmapuri
+Asia,IN,"(25.75728, 75.37991)",Kolkata,Deoli
+Asia,IN,"(14.46693, 75.92694)",Kolkata,Davangere
+Asia,IN,"(25.66795, 85.83636)",Kolkata,Dalsingh Sarai
+Asia,IN,"(15.5439, 73.7553)",Kolkata,Calangute
+Asia,IN,"(27.9247, 78.40102)",Kolkata,Chharra
+Asia,IN,"(32.55531, 76.12647)",Kolkata,Chamba
+Asia,IN,"(20.88197, 85.83334)",Kolkata,Bhuban
+Asia,IN,"(19.30157, 72.85107)",Kolkata,Bhayandar
+Asia,IN,"(15.45144, 78.14797)",Kolkata,Betamcherla
+Asia,IN,"(26.32293, 91.00632)",Kolkata,Barpeta
+Asia,IN,"(28.92694, 78.23456)",Kolkata,Bachhraon
+Asia,IN,"(21.59983, 71.21169)",Kolkata,Amreli
+Asia,IN,"(10.10649, 76.35484)",Kolkata,Alwaye
+Asia,IN,"(24.41288, 76.56719)",Kolkata,Aklera
+Asia,IN,"(23.49668, 86.68363)",Kolkata,Adra
+Asia,IN,"(22.4711, 88.1453)",Kolkata,Pujali
+Asia,IN,"(22.10194, 85.37752)",Kolkata,Barbil
+Asia,IN,"(17.34769, 78.55757)",Kolkata,Lal Bahadur Nagar
+Asia,IN,"(23.18, 88.58)",Kolkata,Aistala
+Asia,IN,"(9.57046, 76.32756)",Kolkata,Kalavoor
+Asia,JP,"(35.8, 137.23333)",Tokyo,Gero
+Asia,JP,"(34.61667, 135.6)",Tokyo,Yao
+Asia,JP,"(34.75856, 136.13108)",Tokyo,Ueno-ebisumachi
+Asia,JP,"(34.81667, 137.4)",Tokyo,Toyokawa
+Asia,JP,"(34.4833, 136.84186)",Tokyo,Toba
+Asia,JP,"(36.65, 138.31667)",Tokyo,Suzaka
+Asia,JP,"(34.9, 137.5)",Tokyo,Shinshiro
+Asia,JP,"(35.06667, 135.21667)",Tokyo,Sasayama
+Asia,JP,"(36.0, 139.55722)",Tokyo,Okegawa
+Asia,JP,"(36.53333, 136.61667)",Tokyo,Nonoichi
+Asia,JP,"(36.75965, 137.36215)",Tokyo,Namerikawa
+Asia,JP,"(35.0, 136.51667)",Tokyo,Komono
+Asia,JP,"(33.4425, 129.96972)",Tokyo,Karatsu
+Asia,JP,"(35.30889, 139.55028)",Tokyo,Kamakura
+Asia,JP,"(34.25, 135.31667)",Tokyo,Iwade
+Asia,JP,"(35.82756, 137.95378)",Tokyo,Ina
+Asia,JP,"(33.3213, 130.94098)",Tokyo,Hita
+Asia,JP,"(36.24624, 139.07204)",Tokyo,Fujioka
+Asia,JP,"(36.33011, 138.89585)",Tokyo,Annaka
+Asia,JP,"(35.815, 139.6853)",Tokyo,Shimotoda
+Asia,JP,"(39.46667, 141.95)",Tokyo,Yamada
+Asia,JP,"(37.56667, 140.11667)",Tokyo,Inawashiro
+Asia,JP,"(43.82634, 144.09638)",Tokyo,Motomachi
+Asia,JP,"(44.35056, 142.45778)",Tokyo,Nayoro
+Asia,JP,"(41.77583, 140.73667)",Tokyo,Hakodate
+Asia,JP,"(35.48199, 137.02166)",Tokyo,Minokamo
+Africa,NG,"(4.92675, 6.26764)",Lagos,Yenagoa
+Africa,NG,"(6.8485, 3.64633)",Lagos,Shagamu
+Africa,NG,"(7.6, 4.18333)",Lagos,Olupona
+Africa,NG,"(6.15038, 6.83042)",Lagos,Nkpor
+Africa,NG,"(6.45407, 3.39467)",Lagos,Lagos
+Africa,NG,"(9.58126, 8.2926)",Lagos,Kafanchan
+Africa,NG,"(7.62789, 4.74161)",Lagos,Ilesa
+Africa,NG,"(7.50251, 5.06258)",Lagos,Igbara-Odo
+Africa,NG,"(11.86064, 9.0027)",Lagos,Gaya
+Africa,NG,"(7.65649, 4.92235)",Lagos,Efon-Alaaye
+Africa,NG,"(10.61285, 12.19458)",Lagos,Biu
+Africa,NG,"(12.74482, 4.52514)",Lagos,Argungu
+Europe,NL,"(52.09, 5.23333)",Amsterdam,Zeist
+Europe,NL,"(51.65333, 5.2875)",Amsterdam,Vught
+Europe,NL,"(51.44889, 5.51978)",Amsterdam,Tongelre
+Europe,NL,"(51.95838, 4.47124)",Amsterdam,Schiebroek
+Europe,NL,"(52.31333, 6.92917)",Amsterdam,Oldenzaal
+Europe,NL,"(52.26083, 7.00417)",Amsterdam,Losser
+Europe,NL,"(53.16167, 6.76111)",Amsterdam,Hoogezand
+Europe,NL,"(52.57583, 6.61944)",Amsterdam,Hardenberg
+Europe,NL,"(52.71083, 5.74861)",Amsterdam,Emmeloord
+Europe,NL,"(51.955, 5.22778)",Amsterdam,Culemborg
+Europe,NL,"(52.14, 5.58472)",Amsterdam,Barneveld
+Asia,PH,"(6.33444, 124.95278)",Manila,Tupi
+Asia,PH,"(10.7375, 122.9666)",Manila,Talisay
+Asia,PH,"(12.97389, 123.99333)",Manila,Sorsogon
+Asia,PH,"(9.3337, 122.8637)",Manila,Santa Catalina
+Asia,PH,"(12.35275, 121.06761)",Manila,San Jose
+Asia,PH,"(6.95194, 121.96361)",Manila,Recodo
+Asia,PH,"(14.66, 120.56528)",Manila,Pilar
+Asia,PH,"(10.20898, 123.758)",Manila,Naga
+Asia,PH,"(12.37169, 123.62494)",Manila,Masbate
+Asia,PH,"(16.0438, 120.4861)",Manila,Manaoag
+Asia,PH,"(10.13361, 124.84472)",Manila,Maasin
+Asia,PH,"(16.455, 120.5875)",Manila,La Trinidad
+Asia,PH,"(9.6531, 124.3697)",Manila,Jagna
+Asia,PH,"(14.8361, 120.97844)",Manila,Guyong
+Asia,PH,"(8.56697, 123.33471)",Manila,Dipolog
+Asia,PH,"(10.31672, 123.89071)",Manila,Cebu City
+Asia,PH,"(14.14989, 121.3152)",Manila,Calauan
+Asia,PH,"(15.72892, 120.57224)",Manila,Burgos
+Asia,PH,"(14.95472, 120.89694)",Manila,Baliuag
+Asia,PH,"(14.62578, 121.12251)",Manila,Antipolo
+Europe,TR,"(38.13708, 41.00817)",Istanbul,Silvan
+Europe,TR,"(39.22493, 42.85693)",Istanbul,Patnos
+Europe,TR,"(37.31309, 40.74357)",Istanbul,Mardin
+Europe,TR,"(37.58105, 29.26639)",Istanbul,Serinhisar
+Europe,TR,"(37.05944, 37.3825)",Istanbul,Gaziantep
+Europe,TR,"(39.59611, 27.02444)",Istanbul,Edremit
+Europe,TR,"(39.12074, 27.18052)",Istanbul,Bergama
+Europe,TR,"(38.37255, 34.02537)",Istanbul,Aksaray
+Europe,TR,"(40.98894, 28.67582)",Istanbul,Yakuplu
+Europe,TR,"(40.1675, 34.37389)",Istanbul,Sungurlu
+Europe,TR,"(40.37528, 28.88222)",Istanbul,Mudanya
+America,US,"(33.45122, -86.99666)",Chicago,Hueytown
+America,US,"(33.44872, -86.78777)",Chicago,Vestavia Hills
+America,US,"(35.25064, -91.73625)",Chicago,Searcy
+America,US,"(26.68451, -80.66756)",New_York,Belle Glade
+America,US,"(28.54944, -81.77285)",New_York,Clermont
+America,US,"(28.90054, -81.26367)",New_York,Deltona
+America,US,"(29.65163, -82.32483)",New_York,Gainesville
+America,US,"(25.67927, -80.31727)",New_York,Kendall
+America,US,"(28.15112, -82.46148)",New_York,Lutz
+America,US,"(26.2173, -80.22588)",New_York,North Lauderdale
+America,US,"(30.17746, -81.38758)",New_York,Palm Valley
+America,US,"(26.91756, -82.07842)",New_York,Punta Gorda Isles
+America,US,"(27.71809, -82.35176)",New_York,Sun City Center
+America,US,"(27.09978, -82.45426)",New_York,Venice
+America,US,"(34.06635, -84.67837)",New_York,Acworth
+America,US,"(32.54044, -82.90375)",New_York,Dublin
+America,US,"(33.08014, -83.2321)",New_York,Milledgeville
+America,US,"(33.54428, -84.23381)",New_York,Stockbridge
+America,US,"(38.58894, -89.99038)",Chicago,Fairview Heights
+America,US,"(38.06084, -97.92977)",Chicago,Hutchinson
+America,US,"(39.08367, -84.50855)",New_York,Covington
+America,US,"(36.61033, -88.31476)",Chicago,Murray
+America,US,"(29.84576, -90.10674)",Chicago,Estelle
+America,US,"(32.52515, -93.75018)",Chicago,Shreveport
+America,US,"(38.96372, -76.99081)",New_York,Chillum
+America,US,"(38.70734, -77.02303)",New_York,Fort Washington
+America,US,"(39.33427, -76.43941)",New_York,Middle River
+America,US,"(39.32011, -76.51552)",New_York,Rosedale
+America,US,"(39.32288, -76.72803)",New_York,Woodlawn
+America,US,"(39.09112, -94.41551)",Chicago,Independence
+America,US,"(37.95143, -91.77127)",Chicago,Rolla
+America,US,"(33.41012, -91.06177)",Chicago,Greenville
+America,US,"(34.25807, -88.70464)",Chicago,Tupelo
+America,US,"(35.05266, -78.87836)",New_York,Fayetteville
+America,US,"(34.25628, -78.04471)",New_York,Leland
+America,US,"(35.88264, -80.08199)",New_York,Thomasville
+America,US,"(39.71734, -74.96933)",New_York,Sicklerville
+America,US,"(39.43534, -84.20299)",New_York,Lebanon
+America,US,"(34.77453, -96.67834)",Chicago,Ada
+America,US,"(35.74788, -95.36969)",Chicago,Muskogee
+America,US,"(39.96097, -75.60804)",New_York,West Chester
+America,US,"(33.98154, -81.23621)",New_York,Lexington
+America,US,"(36.02506, -86.77917)",Chicago,Brentwood Estates
+America,US,"(35.61452, -88.81395)",Chicago,Jackson
+America,US,"(32.44874, -99.73314)",Chicago,Abilene
+America,US,"(30.16688, -96.39774)",Chicago,Brenham
+America,US,"(31.12406, -97.90308)",Chicago,Copperas Cove
+America,US,"(29.53885, -95.44744)",Chicago,Fresno
+America,US,"(30.5427, -97.54667)",Chicago,Hutto
+America,US,"(32.5007, -94.74049)",Chicago,Longview
+America,US,"(31.76212, -95.63079)",Chicago,Palestine
+America,US,"(26.18924, -98.15529)",Chicago,San Juan
+America,US,"(32.35126, -95.30106)",Chicago,Tyler
+America,US,"(37.52487, -77.55777)",New_York,Bon Air
+America,US,"(38.91817, -78.19444)",New_York,Front Royal
+America,US,"(37.60876, -77.37331)",New_York,Mechanicsville
+America,US,"(39.00622, -77.4286)",New_York,Sterling
+America,US,"(39.45621, -77.96389)",New_York,Martinsburg
+America,US,"(41.27621, -72.86843)",New_York,East Haven
+America,US,"(41.14676, -73.49484)",New_York,New Canaan
+America,US,"(41.55815, -73.0515)",New_York,Waterbury
+America,US,"(41.6764, -91.58045)",Chicago,Coralville
+America,US,"(41.57721, -93.71133)",Chicago,West Des Moines
+America,US,"(41.15376, -87.88754)",Chicago,Bourbonnais
+America,US,"(42.24113, -88.3162)",Chicago,Crystal Lake
+America,US,"(41.72059, -87.70172)",Chicago,Evergreen Park
+America,US,"(42.16808, -88.42814)",Chicago,Huntley
+America,US,"(41.8542, -87.66561)",Chicago,Lower West Side
+America,US,"(41.80753, -87.65644)",Chicago,New City
+America,US,"(40.56754, -89.64066)",Chicago,Pekin
+America,US,"(41.84364, -87.71255)",Chicago,South Lawndale
+America,US,"(41.85059, -87.882)",Chicago,Westchester
+America,US,"(41.47892, -87.45476)",Chicago,Schererville
+America,US,"(42.35843, -71.05977)",New_York,Boston
+America,US,"(42.58342, -71.8023)",New_York,Fitchburg
+America,US,"(42.4251, -71.06616)",New_York,Malden
+America,US,"(42.52787, -70.92866)",New_York,Peabody
+America,US,"(41.9001, -71.08977)",New_York,Taunton
+America,US,"(43.91452, -69.96533)",New_York,Brunswick
+America,US,"(45.0408, -93.263)",Chicago,Columbia Heights
+America,US,"(45.16024, -93.08883)",Chicago,Lino Lakes
+America,US,"(44.73941, -93.12577)",Chicago,Rosemount
+America,US,"(47.92526, -97.03285)",Chicago,Grand Forks
+America,US,"(42.93369, -72.27814)",New_York,Keene
+America,US,"(40.94065, -73.99681)",New_York,Dumont
+America,US,"(40.72816, -74.07764)",New_York,Jersey City
+America,US,"(40.82232, -74.15987)",New_York,Nutley
+America,US,"(40.65538, -74.38987)",New_York,Scotch Plains
+America,US,"(40.5576, -74.28459)",New_York,Woodbridge
+America,US,"(40.57788, -73.95958)",New_York,Brighton Beach
+America,US,"(40.67705, -73.89125)",New_York,Cypress Hills
+America,US,"(40.60538, -73.75513)",New_York,Far Rockaway
+America,US,"(40.72371, -73.95097)",New_York,Greenpoint
+America,US,"(40.64621, -73.97069)",New_York,Kensington
+America,US,"(40.68066, -73.47429)",New_York,Massapequa
+America,US,"(41.50343, -74.01042)",New_York,Newburgh
+America,US,"(40.63316, -74.13653)",New_York,Port Richmond
+America,US,"(41.0051, -73.78458)",New_York,Scarsdale
+America,US,"(43.1009, -75.23266)",New_York,Utica
+America,US,"(40.93121, -73.89875)",New_York,Yonkers
+America,US,"(41.55838, -81.56929)",New_York,Collinwood
+America,US,"(41.48199, -81.79819)",New_York,Lakewood
+America,US,"(41.24255, -82.61573)",New_York,Norwalk
+America,US,"(41.66394, -83.55521)",New_York,Toledo
+America,US,"(40.2737, -76.88442)",New_York,Harrisburg
+America,US,"(40.24537, -75.64963)",New_York,Pottstown
+America,US,"(41.54566, -71.29144)",New_York,Middletown
+America,US,"(43.61062, -72.97261)",New_York,Rutland
+America,US,"(44.27804, -88.27205)",Chicago,Kaukauna
+America,US,"(42.55308, -87.93341)",Chicago,Pleasant Prairie
+America,US,"(41.16704, -73.20483)",New_York,Bridgeport
+America,US,"(31.84568, -102.36764)",Chicago,Odessa
+America,US,"(40.81, -73.9625)",New_York,Morningside Heights
+America,US,"(43.16547, -77.70066)",New_York,Gates-North Gates
